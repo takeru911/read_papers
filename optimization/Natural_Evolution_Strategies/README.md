@@ -87,5 +87,3 @@ CMA-ESはベンチマークで良い性能を出している。とはいえCMA-E
 
 ![式展開](https://raw.githubusercontent.com/takeru911/read_papers/master/optimization/Natural_Evolution_Strategies/images/%E5%BC%8F_1.jpeg)
 
-
-
